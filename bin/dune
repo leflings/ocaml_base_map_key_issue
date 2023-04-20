@@ -1,4 +1,0 @@
-(executable
- (public_name map_key_bug)
- (name main)
- (libraries map_key_bug))
