@@ -1,2 +1,3 @@
 (test
- (name map_key_bug))
+ (name map_key_bug)
+ (libraries base alcotest))
